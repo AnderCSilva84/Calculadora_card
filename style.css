@@ -1,0 +1,84 @@
+body {
+    background-image: url(/img/metallic-colored-credit-cards-stack-15r4d699xcc0tl1a.jpg);
+    background-attachment: fixed;
+    background-repeat:repeat;
+    background-position: center;
+}
+
+.secao-cartao {
+    background-image: url(/img/problema-cartao-de-credito.png);
+    background-size: auto;
+    height: 300px;
+    width: 1200px;
+    background-repeat:no-repeat;
+    background-position: center;
+    border-radius: 30px;
+    margin: auto;
+    
+}
+
+.secao-cartao h1 {
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 40px;
+    font-size: 40px;
+    color: rgba(42, 4, 123, 0.789);
+}
+
+.valor-cartao {
+    text-align: center;
+}
+
+.valor-cartao {
+    color: #ffffff;
+}
+
+
+.secao-cartao,
+ul {
+    list-style-type: none;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    margin: 30px;
+    background-color: rgba(255, 235, 205, 0.888);
+    border-radius: 30px;
+    font-size: 22px;
+    padding: 10px;
+    height: center;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.valor-cartao {
+    background-image: url(/img/grafico-de-financas-de-negocios-virtuais-com-fundo-digital_9083-5627.jpg);
+    height: 600px;
+    width: 1200px;
+    border-radius: 30px;
+    background-position: center;
+    margin-left: 220px;
+    margin-top: 80px;
+}
+
+.button1{
+    color: black;
+    font-size: 32px;
+    background-color: rgb(255, 255, 0);
+    border-radius: 30px;
+    margin-top: 200px;
+    
+}
+
+.button2 {
+    color: black;
+    font-size: 32px;
+    background-color: rgb(255, 255, 0);
+    border-radius: 30px;
+}
